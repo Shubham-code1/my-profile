@@ -1,5 +1,4 @@
 import React from 'react';
-import {BsFillArrowRightCircleFill} from "react-icons/bs";
 import {HiArrowRight} from 'react-icons/hi';
 
 function Card({title,desc,icon}) {

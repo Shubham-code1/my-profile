@@ -1,5 +1,4 @@
 import React from 'react';
-import ResumeCard from './ResumeCard';
 import {motion} from 'framer-motion'
 
 function Skills() {
